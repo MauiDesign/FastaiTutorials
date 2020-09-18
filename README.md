@@ -68,3 +68,7 @@ _jupyter notebook_
 ## 5. Create your first notebook with fastai
 
 Now you have everything ready to try something with fastai. For example, follow this tutorial: https://docs.fast.ai/tutorial.data.html#Vision or take the Practical Deep Learning for Coders course at https://course.fast.ai/
+
+## 6. Configure config.yml
+
+Before running ipynb, change the path of data, anotation, models and tmp folder to different location if required.
